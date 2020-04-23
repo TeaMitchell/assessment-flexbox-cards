@@ -8,6 +8,10 @@
 
 .card {
   /* display, flex-direction, flex-grow, flex-basis */
+  /* display: flex; */
+  flex-direction: row;
+  flex-grow: 3;
+  flex-basis: 400px;
   border: 1px solid #CAD0D2;
   border-radius: 4px;
   border: none;
